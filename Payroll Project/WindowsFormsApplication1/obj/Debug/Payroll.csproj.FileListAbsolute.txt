@@ -1,0 +1,23 @@
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.AboutBox1.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.AddEmployee.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.ChangePassword.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.DailyAttendance.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.EditEmployeeDetails.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.LoginForm.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.MainWindow.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.MonthlyAttendanceReport.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.MonthlySalarySheet.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.PerspectivePayslip.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.Properties.Resources.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.SalaryCredentialAssigner.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.ViewEmployee.resources
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\Payroll.csproj.GenerateResource.Cache
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Studies\A Levels\Computing\Project\CapMark-Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\bregmi1\Desktop\CapMark-Project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\bregmi1\Desktop\CapMark-Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\bregmi1\Desktop\CapMark-Project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
